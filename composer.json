@@ -7,7 +7,7 @@
 	"require": {
 		"php": ">= 7.1.0",
 		"ext-curl": "*",
-		"league/oauth2-client": "2.2.*"
+		"league/oauth2-client": "2.6.*"
 	},
 	"autoload": {
 		"psr-4": {
